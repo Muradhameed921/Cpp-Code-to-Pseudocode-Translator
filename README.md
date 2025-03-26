@@ -37,4 +37,5 @@ This project implements a Transformer-based Sequence-to-Sequence (Seq2Seq) model
 
 
 ## Results
-![C++ Code to Pseudocode Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![C++ Code to Pseudocode Screenshot](https://github.com/Muradhameed921/Cpp-Code-to-Pseudocode-Translator/blob/main/C1.jpg)
+![C++ Code to Pseudocode Screenshot](https://github.com/Muradhameed921/Cpp-Code-to-Pseudocode-Translator/blob/main/C1.jpg)
